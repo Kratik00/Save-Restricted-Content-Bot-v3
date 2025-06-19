@@ -32,6 +32,6 @@ YT_COOKIES = os.getenv("YT_COOKIES", YTUB_COOKIES)
 INSTA_COOKIES = os.getenv("INSTA_COOKIES", INST_COOKIES)
 FREEMIUM_LIMIT = int(os.getenv("FREEMIUM_LIMIT", "0"))
 PREMIUM_LIMIT = int(os.getenv("PREMIUM_LIMIT", "50000"))
-JOIN_LINK = os.getenv("JOIN_LINK", "https://t.me/urs_lucifer") # this link for start command message
+JOIN_LINK = os.getenv("JOIN_LINK", "https://t.me/+tUmzY6n970Q5ZGVl") # this link for start command message
 ADMIN_CONTACT = os.getenv("ADMIN_CONTACT", "https://t.me/lp_lucifer")
 
